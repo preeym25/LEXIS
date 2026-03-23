@@ -2,6 +2,8 @@
 
 **Understand any text instantly.** Paste anything — emails, essays, books, tweets. Get word counts, emotion DNA, frequency maps and a live word galaxy. No fluff. Just insight.
 
+🌐 **Live demo:** https://ephemeral-seahorse-01025e.netlify.app/
+
 ---
 
 ## 🎯 What is LEXIS?
