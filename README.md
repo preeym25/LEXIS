@@ -44,7 +44,7 @@ LEXIS provides **four powerful lenses** to understand any text:
 LEXIS is a web-based application — just open the HTML file in your browser and start analyzing immediately.
 
 ### Quick Steps
-1. **Open** `text_analyzer01.html` in your web browser
+1. **Open** `index.html` in your web browser
 2. **Paste** any text you want to analyze
 3. **Select** an analysis type from the menu
 4. **Explore** instant results with beautiful visualizations
@@ -139,4 +139,4 @@ Created to empower clarity in language.
 
 ---
 
-**Ready to decode your language?** Open `text_analyzer01.html` and discover what your words reveal.
+**Ready to decode your language?** Open `index.html` and discover what your words reveal.
