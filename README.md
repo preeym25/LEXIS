@@ -105,7 +105,7 @@ LEXIS is built with:
 
 ## 🛠️ Files Included
 
-- `text_analyzer01.html` — Main application
+- `index.html` — Main application
 
 ---
 
